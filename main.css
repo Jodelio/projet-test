@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:sans-serif;
+}
+
+.container{
+    width: 100px;
+    min-height: 100vh;
+    background: radial-gradient(#768aff, #0f228a);
+    color: #fff;
+    position: relative ;
+}
